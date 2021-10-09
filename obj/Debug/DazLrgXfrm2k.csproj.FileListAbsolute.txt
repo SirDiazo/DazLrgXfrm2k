@@ -1,0 +1,6 @@
+C:\Users\diazo\source\repos\DazLrgXfrm2k\bin\Debug\DazLrgXfrm2k.dll
+C:\Users\diazo\source\repos\DazLrgXfrm2k\bin\Debug\DazLrgXfrm2k.pdb
+C:\Users\diazo\source\repos\DazLrgXfrm2k\obj\Debug\DazLrgXfrm2k.csproj.AssemblyReference.cache
+C:\Users\diazo\source\repos\DazLrgXfrm2k\obj\Debug\DazLrgXfrm2k.csproj.CoreCompileInputs.cache
+C:\Users\diazo\source\repos\DazLrgXfrm2k\obj\Debug\DazLrgXfrm2k.dll
+C:\Users\diazo\source\repos\DazLrgXfrm2k\obj\Debug\DazLrgXfrm2k.pdb
